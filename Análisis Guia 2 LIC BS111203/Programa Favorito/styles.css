@@ -1,0 +1,69 @@
+/* Estilos generales */
+body {
+    background-color: #f0f0f0;  /*Fondo gris claro */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para centrar los títulos de las secciones */
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color:#006400;
+}
+
+/* Estilos para centrar los títulos h2 de las secciones */
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color:#006400;
+}
+
+
+
+/* Estilos para centrar la imagen de la portada */
+header {
+    text-align: center;
+}
+
+
+
+img {
+    height: 500px;
+    width: auto; /* Esto mantiene la relación de aspecto */
+}
+
+
+/* Estilos para centrar el contenido */
+body {
+    text-align: justify;
+}
+
+/* Estilos para el párrafo */
+p {
+    margin: 0 auto;
+    max-width: 1200px; /* Ajusta el ancho máximo del párrafo según sea necesario */
+    padding: 10px;
+}
+
+.linea-personalizada {
+    height: 1px; /* Cambia el valor para ajustar el tamaño */
+    width: 88%;
+    background-color: #aeacac; /* Cambia el color si lo deseas */
+    border: none; /* Elimina el borde predeterminado */
+    margin: 10px auto; /* Agrega margen superior e inferior para separación */
+  }
+
+
+  .linea-personalizada2 {
+    height: 1px; /* Cambia el valor para ajustar el tamaño */
+    width: 70%;
+    background-color: #aeacac; /* Cambia el color si lo deseas */
+    border: none; /* Elimina el borde predeterminado */
+    margin: 10px auto; /* Agrega margen superior e inferior para separación */
+  }
+
+  #footer{
+    color:#006400;
+  }  
